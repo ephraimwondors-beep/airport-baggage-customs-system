@@ -13,15 +13,3 @@ A C program designed to automate airport check-in calculations, including tiered
 ```bash
 gcc main.c -o airport_system
 ./airport_system
-**SAMPLE OUTPUT**
-*********************************************
-              ITEMIZED BREAKDOWN             
-*********************************************
-Base baggage charge is $   105.00
-Frequent Flyer discount is -$    21.00
-Net weight charge after discount is $    84.00
-Custom tax is $     8.00
-Late check in surcharge is $    30.00
-=============================================
-FINAL GRAND AMOUNT TO BE PAID is $   122.00
-=============================================
